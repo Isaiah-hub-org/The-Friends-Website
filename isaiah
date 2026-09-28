@@ -1,0 +1,23 @@
+<head>
+    <title> Isaiah's Webside</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <h1 class="header"> This is Isaiah's Page</h1>
+    <table border="1" >
+        <th> Name</th>
+        <th> Age</th>
+        <th> Hobby</th>
+
+        <tr>
+            <td>Isaiah </td>
+            <td>Pierre</td>
+        </tr> 
+        <tr>
+            <td>yo</td>
+        </tr>
+        
+    </table>
+</body>
+    
+
