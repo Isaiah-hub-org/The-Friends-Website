@@ -5,16 +5,14 @@
 <body>
     <h1 class="header"> This is Isaiah's Page</h1>
     <table border="1" >
-        <th> Name</th>
-        <th> Age</th>
-        <th> Hobby</th>
 
         <tr>
-            <td>Isaiah </td>
-            <td>Pierre</td>
+            <td class="data">Name </td>
+            <td class="it">Isaiah </td>
+            <td class="it">Pierre</td>
         </tr> 
         <tr>
-            <td>yo</td>
+            <td class="data">Age</td>
         </tr>
         
     </table>
