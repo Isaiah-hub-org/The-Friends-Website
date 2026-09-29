@@ -4,3 +4,30 @@
     text-align: center;
    
 }
+
+#fortnite {
+    width: 200px;
+    height: 200px;
+}
+
+body {
+    background-color: rgb(48, 100, 93);
+
+    
+}
+
+img:hover{
+    width: 150px;
+    height: 150px;
+    filter: hue-rotate(40deg);
+    border: 7px dotted orange;
+    margin:30px; 
+    padding: 15px;
+    
+
+}
+
+.text{
+    border: 7px dotted rgb(236, 232, 225);
+
+}
